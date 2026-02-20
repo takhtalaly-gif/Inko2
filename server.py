@@ -5,7 +5,7 @@ Enhanced with Auto-Video Detection, Admin Panel, Health Monitor, Algorithm Syste
 """
 
 import http.server, socketserver, json, os, uuid, time, subprocess, sys
-import socket, mimetypes, urllib.parse, hashlib, threading, cgi, shutil, re
+import socket, mimetypes, urllib.parse, hashlib, threading, shutil, re
 from datetime import datetime
 from pathlib import Path
 
